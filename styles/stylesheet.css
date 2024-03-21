@@ -1,0 +1,63 @@
+/*external stylsheet*/
+nav ul li{
+    text-align: center;
+    color: black;
+    margin-right: 20%;
+    list-style-type: none;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    margin-right: 20%;
+}
+
+body{
+    background-color:gray;
+}
+
+h1{
+    color: white;
+    text-align:center;
+    
+}
+
+section{
+    color: white
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.image1{
+    height: 100px;
+    width: 120px;
+}
+
+.image2{
+    margin-top: 5%;
+}
+
+.image3{
+    margin-top: 4.5%;
+}
+
+div{
+    color: white;
+    text-align:center;
+    font-size: 58px;
+}
+
+h2.specific1{
+    text-align: center;
+    margin-right: 0%;
+}
+
+h2.specific2{
+    text-align: center;
+    margin-right: 0%;
+}
